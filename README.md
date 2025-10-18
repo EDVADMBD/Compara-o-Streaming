@@ -31,7 +31,8 @@ Além disso, serve como um exemplo de ciência de dados aplicada a situações d
 
 <img width="1227" height="435" alt="image" src="https://github.com/user-attachments/assets/b6edaef3-3100-499b-a9a7-d14fa0f5e6f5" />
 
-<img width="1107" height="430" alt="image" src="https://github.com/user-attachments/assets/a8c2922f-356d-4ab8-8bd4-b892104394a7" />
+<img width="1108" height="453" alt="image" src="https://github.com/user-attachments/assets/45ab9c5f-ef71-4b39-b1f5-ffe137f0cf1a" />
+
 
 
 
