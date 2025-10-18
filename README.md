@@ -34,7 +34,6 @@ Projeto inicial em Python para coletar e comparar preços de serviços de stream
 
 <img width="819" height="460" alt="image" src="https://github.com/user-attachments/assets/e2933c21-4c82-410e-941e-266e57c6d0c4" />
 
-
 2. Instalação e Execução
 
 1. Crie um ambiente virtual:
