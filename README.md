@@ -25,3 +25,58 @@ O impacto
 Esse projeto ajuda qualquer usuário a tomar decisões inteligentes sobre onde investir seu dinheiro em streaming, evitando gastar mais do que precisa e aproveitando o melhor conteúdo de acordo com suas preferências.
 
 Além disso, serve como um exemplo de ciência de dados aplicada a situações do dia a dia, combinando raspagem de dados, tratamento de informações, visualizações e interatividade em um único fluxo de trabalho.
+
+
+
+# Projeto Stream Prices - Boilerplate
+Projeto inicial em Python para coletar e comparar preços de serviços de streaming.
+1. Estrutura do Repositório
+
+stream-prices/
+├─ fetchers/
+│  ├─ __init__.py
+│  ├─ base.py
+│  ├─ api_fetcher.py
+│  ├─ html_fetcher.py
+│  └─ playwright_fetcher.py
+├─ normalizer.py
+├─ aggregator.py
+├─ db.py
+├─ main.py
+├─ requirements.txt
+├─ .env.example
+└─ README.md
+
+2. Instalação e Execução
+
+1. Crie um ambiente virtual:
+   python -m venv .venv
+   source .venv/bin/activate (Linux/Mac)
+   .venv\Scripts\activate (Windows)
+
+2. Instale as dependências:
+   pip install -r requirements.txt
+
+3. Instale o Playwright (se necessário):
+   playwright install
+
+4. Execute o script principal:
+   python main.py
+
+3. Principais Componentes
+
+- fetchers/: classes responsáveis por buscar dados (API, HTML e JS dinâmico).
+- normalizer.py: converte os dados brutos em formato padronizado.
+- aggregator.py: define métricas e encontra o melhor preço.
+- db.py: armazena as informações em SQLite.
+- main.py: orquestra o fluxo de coleta e análise.
+
+4. Próximos Passos
+
+- Implementar parsers específicos para cada provedor (Netflix, Disney+, Prime, Globoplay, etc).
+- Integrar API de câmbio para normalizar valores em diferentes moedas.
+- Criar uma API com FastAPI para consultas externas.
+- Adicionar testes unitários e suporte a Docker.
+
+
+
