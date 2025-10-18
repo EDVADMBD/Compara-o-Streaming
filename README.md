@@ -30,7 +30,8 @@ Além disso, serve como um exemplo de ciência de dados aplicada a situações d
 
 # Projeto Stream Prices - Boilerplate
 Projeto inicial em Python para coletar e comparar preços de serviços de streaming.
-1. Estrutura do Repositório
+
+Estrutura do Repositório
 
 <img width="819" height="460" alt="image" src="https://github.com/user-attachments/assets/e2933c21-4c82-410e-941e-266e57c6d0c4" />
 2. Instalação e Execução
