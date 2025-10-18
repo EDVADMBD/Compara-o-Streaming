@@ -1,4 +1,6 @@
-# Compara-o-Streaming
+<img width="828" height="462" alt="image" src="https://github.com/user-attachments/assets/309830dc-884d-472e-b164-a1359ae4c53b" />
+
+# Compara-o-Streaming 
 Projeto inicial em Python para coletar e comparar preços de serviços de streaming.
 Storytelling: Descobrindo os Melhores Preços de Streaming
 
