@@ -74,5 +74,7 @@ Estrutura do Repositório
 - Adicionar testes unitários e suporte a Docker.
 
 Segue o projeto: 
+
+https://colab.research.google.com/drive/1suIAFj-sWWBnOjNdZzBSHb1DSRC0Zmgk#scrollTo=EbejqykGzWwE
 https://github.com/EDVADMBD/Compara-o-Streaming/blob/main/Str2025.ipynb
 
