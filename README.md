@@ -2,6 +2,7 @@
 
 # Compara-o-Streaming 
 Projeto inicial em Python para coletar e comparar preços de serviços de streaming.
+
 Storytelling: Descobrindo os Melhores Preços de Streaming
 
 Imagine que você quer aproveitar suas séries e filmes favoritos sem gastar uma fortuna. Com tantas opções de streaming disponíveis — Netflix, Disney+, Prime Video, HBO Max, Globoplay — a dúvida é: qual serviço oferece o melhor custo-benefício?
