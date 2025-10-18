@@ -67,5 +67,6 @@ Estrutura do Repositório
 - Criar uma API com FastAPI para consultas externas.
 - Adicionar testes unitários e suporte a Docker.
 
-
+Segue o projeto: 
+https://github.com/EDVADMBD/Compara-o-Streaming/blob/main/Str2025.ipynb
 
