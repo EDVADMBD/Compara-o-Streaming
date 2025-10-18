@@ -49,7 +49,7 @@ Projeto inicial em Python para coletar e comparar preços de serviços de stream
 4. Execute o script principal:
    python main.py
 
-3. Principais Componentes
+5. Principais Componentes
 
 - fetchers/: classes responsáveis por buscar dados (API, HTML e JS dinâmico).
 - normalizer.py: converte os dados brutos em formato padronizado.
@@ -57,7 +57,7 @@ Projeto inicial em Python para coletar e comparar preços de serviços de stream
 - db.py: armazena as informações em SQLite.
 - main.py: orquestra o fluxo de coleta e análise.
 
-8. Próximos Passos
+6. Próximos Passos
 
 - Implementar parsers específicos para cada provedor (Netflix, Disney+, Prime, Globoplay, etc).
 - Integrar API de câmbio para normalizar valores em diferentes moedas.
