@@ -32,20 +32,8 @@ Além disso, serve como um exemplo de ciência de dados aplicada a situações d
 Projeto inicial em Python para coletar e comparar preços de serviços de streaming.
 1. Estrutura do Repositório
 
-stream-prices/
-├─ fetchers/
-│  ├─ __init__.py
-│  ├─ base.py
-│  ├─ api_fetcher.py
-│  ├─ html_fetcher.py
-│  └─ playwright_fetcher.py
-├─ normalizer.py
-├─ aggregator.py
-├─ db.py
-├─ main.py
-├─ requirements.txt
-├─ .env.example
-└─ README.md
+<img width="819" height="460" alt="image" src="https://github.com/user-attachments/assets/e2933c21-4c82-410e-941e-266e57c6d0c4" />
+
 
 2. Instalação e Execução
 
